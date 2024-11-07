@@ -1,0 +1,885 @@
+body, html{
+  fit-content-width: 100%;
+  fit-content-height: 100%
+}
+.about-us {
+
+box-sizing: border-box;
+
+position: relative;
+width: 1415px;
+height: 3799px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+
+}
+
+.about-us .nav-bar-section {
+/* Nav Bar */
+
+position: absolute;
+width: 1366.4px;
+height: 71.31px;
+left: 10px;
+top: 10px;
+
+
+}
+
+.about-us .nav-bar-section .learnfresh-logo-nav {
+/* image 53 */
+
+position: absolute;
+width: 38.86px;
+height: 39.75px;
+left: 36px;
+top: 35px;
+
+background: url(image.png);
+
+
+
+}
+.about-us .nav-bar-section .learn-fresh-wrapper {
+/* LearnFresh */
+
+position: absolute;
+width: 131.61px;
+height: 31px;
+left: 92.13px;
+top: 41.83px;
+
+font-family: 'Mplus 1p Bold';
+font-style: normal;
+font-weight: 700;
+font-size: 21.1983px;
+line-height: 31px;
+
+color: #000000;
+
+
+
+
+}
+.about-us .nav-bar-section .home-wrapper {
+ /* Home */
+
+position: absolute;
+width: 47.7px;
+height: 19px;
+left: 353.57px;
+top: 44.48px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 15.8987px;
+line-height: 19px;
+letter-spacing: -0.02em;
+
+color: #000000;
+
+
+
+}
+.about-us .nav-bar-section .learn-to-cook-wrapper {
+
+
+position: absolute;
+width: 102.46px;
+height: 19px;
+left: 462.21px;
+top: 44.48px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 15.8987px;
+line-height: 19px;
+letter-spacing: -0.02em;
+
+color: #000000;
+
+
+
+
+}
+
+.about-us .nav-bar-section .custom-recipes-wrapper {
+position: absolute;
+width: 166.94px;
+height: 19px;
+left: 628.26px;
+top: 44.48px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 15.8987px;
+line-height: 19px;
+letter-spacing: -0.02em;
+
+color: #000000;
+
+
+
+
+}
+.about-us .nav-bar-section .sustainability-wrapper {
+position: absolute;
+width: 103.34px;
+height: 19px;
+left: 811.98px;
+top: 44.48px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 15.8987px;
+line-height: 19px;
+letter-spacing: -0.02em;
+
+color: #000000;
+}
+
+.about-us .nav-bar-section .active-page {
+position: absolute;
+width: 130.72px;
+height: 43.28px;
+left: 794.93px;
+top: 35.31px;
+
+background: rgba(137, 190, 49, 0.17);
+border-radius: 35.3304px;
+
+}
+.about-us .nav-bar-section .about-us-wrapper {
+position: absolute;
+width: 71.54px;
+height: 19px;
+left: 974.5px;
+top: 44.48px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 15.8987px;
+line-height: 19px;
+letter-spacing: -0.02em;
+
+color: #000000;
+
+
+}
+.line-under-nav {
+position: absolute;
+width: 1366.4px;
+height: 0px;
+left: 30px;
+top: 110px;
+
+border: 0.883261px solid rgba(0, 0, 0, 0.1);
+
+}
+.about-us .sign-up-wrapper {
+position: absolute;
+width: 47px;
+height: 16px;
+left: 1155.33px;
+top: 56.2px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 13.3009px;
+line-height: 16px;
+
+letter-spacing: -0.02em;
+
+color: #000000;
+}
+
+.about-us .signup-box {
+box-sizing: border-box;
+position: absolute;
+width: 113.06px;
+height: 37.24px;
+left: 1119.89px;
+top: 45.52px;
+background: #ffffff0b;
+border: 0.843809px solid #000000;
+border-radius: 15.1886px;
+
+}
+
+.about-us .log-in-wrapper {
+position: absolute;
+width: 38px;
+height: 16px;
+left: 1286.96px;
+top: 55.36px;
+z-index: 2;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 13.3009px;
+line-height: 16px;
+/* identical to box height */
+letter-spacing: -0.02em;
+
+color: rgba(0, 0, 0, 0.82);
+
+
+}
+.about-us .login-box {
+  /* signupbox */
+
+box-sizing: border-box;
+
+position: relative;
+z-index: 1;
+width: 113.06px;
+height: 37.24px;
+left: 1246.46px;
+top: 45.23px;
+
+background: rgba(154, 198, 84, 0.99);
+border: 0.253143px solid #000000;
+border-radius: 15.1886px;
+
+}
+.about-us .hero-page-section {
+position: absolute;
+width: 1408px;
+height: 511.72px;
+left: 2px;
+top: 10px;
+z-index: 100;
+}
+
+.about-us .hero-page-section .hero-page-img {
+  position: absolute;
+width: 615.66px;
+height: 448.41px;
+left: 773.41px;
+top: 206.83px;
+z-index: 5;
+background: url(image.png);
+border-radius: 17.6652px;
+}
+.about-us .hero-page-section .hero-title-wrapper {
+
+position: absolute;
+width: 655.32px;
+height: 125.76px;
+left: 60px;
+top: 205px;
+z-index: 2;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 57.412px;
+line-height: 69px;
+
+color: #333333;
+
+
+}
+
+.about-us .hero-page-section .hero-text-wrapper {
+
+position: absolute;
+width: 568.79px;
+height: 33.83px;
+left: 60px;
+top: 380px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14.1322px;
+line-height: 17px;
+
+color: #515050;
+z-index: 1;
+}
+.about-us .hero-page-section .hero-banner {
+position: relative;
+width: 1408px;
+height: 511.72px;
+left: 0.4px;
+top: 170.4px;
+z-index: 0;
+background: #9FC85B;
+border-radius: 17.6652px;
+}
+.about-us .hero-page-section .hero-group-3 {
+position: absolute;
+width: 206.42px;
+height: 45.1px;
+left: 10px;
+top: 10px;
+z-index: 3;
+}
+.about-us .hero-page-section .hero-group-3 .hero-button {
+position: relative;
+width: 206.42px;
+height: 45.1px;
+left: 56px;
+top: 604px;
+z-index: 1;
+background: #466217;
+border-radius: 22.9648px;
+
+}
+.about-us .hero-page-section .hero-group-3 .hero-group-4 {
+position: absolute;
+width: 131.61px;
+height: 19.95px;
+left: 93.86px;
+top: 617.01px;
+}
+.about-us .hero-page-section .hero-group-3 .hero-group-4 .hero-arrow-group{
+position: absolute;
+width: 20.73px;
+height: 19.95px;
+left: 105px;
+top: 1.6px;
+z-index: 3;
+}
+.about-us .hero-page-section .hero-group-3 .hero-group-4 .hero-arrow-group .hero-arrow {
+
+
+position: absolute;
+left: 14.06%;
+right: 14.06%;
+top: 15.23%;
+bottom: 15.23%;
+
+}
+
+.about-us .hero-page-section .hero-group-3 .hero-group-4 .hero-text-1 {
+position: absolute;
+width: 98.25px;
+height: 16.48px;
+left: 5px;
+top: 2px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 14.1322px;
+line-height: 17px;
+color: #fff;
+z-index: 2;
+}
+.about-us .hero-page-section .hero-group-5{
+position: absolute;
+width: 237.97px;
+height: 91.94px;
+left: 0px;
+top: 0rem;
+z-index: 3;
+}
+.about-us .hero-page-section .hero-group-5 .hero-tick-wrapper-1 {
+position: absolute;
+width: 23.44px;
+height: 22.55px;
+left: 56px;
+top: 532.39px;
+}
+.about-us .hero-page-section .hero-group-5 .hero-tick-wrapper-1 .hero-tick-group-1 {
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+}
+.about-us .hero-page-section .hero-group-5 .hero-tick-wrapper-1 .hero-tick-group-1 .hero-tick {
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+}
+.about-us .hero-page-section .hero-group-5 .hero-tick-wrapper-2  {
+  /* teenyicons:tick-circle-solid */
+
+position: absolute;
+width: 23.44px;
+height: 22.55px;
+left: 56px;
+top: 497.69px;
+
+
+}
+.about-us .hero-page-section .hero-group-5 .hero-tick-wrapper-2 .hero-tick-group-2 {
+  /* Group */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+}
+
+.about-us .hero-page-section .hero-group-5 .hero-tick-wrapper-2 .hero-tick-group-2 .hero-tick-2 {
+  /* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+}
+  /* tick-circle-solid */
+.about-us .hero-page-section .hero-group-5 .hero-tick-wrapper-3 {
+  /* teenyicons:tick-circle-solid */
+
+position: absolute;
+width: 23.44px;
+height: 22.55px;
+left: 56px;
+top: 463px;
+
+
+}
+.about-us .hero-page-section .hero-group-5 .hero-tick-wrapper-3 .hero-tick-group-3 {
+/* Group */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+}
+
+.about-us .hero-page-section .hero-group-5 .hero-tick-wrapper-3 .hero-tick-group-3 .hero-tick-3 {
+  /* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+}
+.about-us .hero-page-section .hero-group-5 .hero-text-wrapper-2{
+  /* Reduce Food waste */
+
+position: absolute;
+width: 174.87px;
+height: 19.95px;
+left: 92.96px;
+top: 533.25px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14.1322px;
+line-height: 17px;
+
+color: #515050;
+
+
+}
+
+.about-us .hero-page-section .hero-group-5 .hero-text-wrapper-3 {
+  /* Environmentally Aware */
+
+position: absolute;
+width: 201.01px;
+height: 19.95px;
+left: 92.96px;
+top: 498.56px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14.1322px;
+line-height: 17px;
+
+color: #515050;
+
+
+}
+.about-us .hero-page-section .hero-group-5 .hero-text-wrapper-4 {
+  /* Sustainability */
+
+position: absolute;
+width: 174.87px;
+height: 19.95px;
+left: 92.96px;
+top: 463.87px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14.1322px;
+line-height: 17px;
+
+color: #515050;
+}
+.about-us .environmental-section {
+position: absolute;
+width: 1065.21px;
+height: 492.86px;
+left: 50px;
+top: 200px;
+}
+
+.about-us .environmental-section .food-waste-img {
+  z-index: 2;
+position: absolute;
+width: 249.96px;
+height: 189.9px;
+left: 990.24px;
+top: 938.92px;
+
+background: url(image.png);
+border-radius: 17.6652px;
+
+}
+.about-us .environmental-section .environment-img {
+  z-index: 1;
+position: absolute;
+width: 248.2px;
+height: 184.6px;
+left: 719.08px;
+top: 944.22px;
+
+background: url(image.png);
+border-radius: 17.6652px;
+
+}
+.about-us .environmental-section .environmental-group {
+
+position: absolute;
+width: 202.27px;
+height: 45.93px;
+left: 175.88px;
+top: 1233.93px;
+
+
+}
+.about-us .environmental-section .environmental-group .environmental-group-2 {
+
+position: absolute;
+width: 99.81px;
+height: 20.32px;
+z-index: 2;
+left: 0px;
+top: 0px;
+
+
+}
+.about-us .environmental-section .environmental-group .environmental-group-2 .environmental-vector-wrapper {
+position: absolute;
+width: 20.32px;
+height: 20.32px;
+left: 306.61px;
+top: 1247.18px;
+}
+.about-us .environmental-section .environmental-group .environmental-group-2 .environmental-vector {
+position: absolute;
+left: 0px;
+right: 14.06%;
+top: 3.5px;
+bottom: 15.23%;
+}
+
+.about-us .environmental-section .environmental-group .environmental-group-2 .environmental-text-wrapper {
+position: absolute;
+width: 68.89px;
+height: 16.78px;
+left: 227.11px;
+top: 1248.95px;
+z-index: 1;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 14.1322px;
+line-height: 17px;
+
+
+color: #fff;
+
+
+}
+.about-us .environmental-section .environmental-group .environmental-button {
+/* Rectangle 6 */
+
+position: relative;
+width: 202.27px;
+height: 45.93px;
+left: 175.88px;
+top: 1233.93px;
+z-index: 1;
+background: #466217;
+border-radius: 22.9648px;
+
+
+}
+.about-us .environmental-section .environmental-section-title {
+  /* More About are */
+
+position: absolute;
+width: 180.19px;
+height: 23.85px;
+left: 175.88px;
+top: 787px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 22.9648px;
+line-height: 27px;
+
+color: #B8B8B8;
+
+
+}
+.about-us .environmental-section .environmental-title-wrapper {k
+position: absolute;
+width: 522.01px;
+height: 57.41px;
+left: 175.88px;
+top: 819.68px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 44.163px;
+line-height: 52px;
+
+color: #333333;
+
+
+}
+.about-us .environmental-section .environmental-group-3 {
+position: absolute;
+width: 1064.3px;
+height: 66.78px;
+left: 175.88px;
+top: 0px;
+
+
+}
+.about-us .environmental-section .environmental-group-3 .environmental-group-4 {
+z-index: 0;
+position: relative;
+width: 250.81px;
+height: 66.78px;
+left: -175px;
+top: 0px;
+}
+
+.about-us .environmental-section .environmental-group-3 .environmental-group-4 .environment-text-wrapper {
+/* Environment */
+
+position: absolute;
+width: 193.43px;
+height: 28.26px;
+left: 769.43px;
+top: 1133.24px;
+z-index: 1;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 23.848px;
+line-height: 28px;
+
+color: #515050;
+}
+
+.about-us .environmental-section .environmental-group-3 .environmental-group-4 .environment-boxed {
+  /* Rectangle 12 */
+z-index: 0;
+position: relative;
+width: 250.81px;
+height: 66.78px;
+left: 718.21px;
+top: 1113.81px;
+
+background: #F1F1F1;
+border-radius: 8.83261px;
+
+}
+
+.about-us .environmental-section .environmental-group-3 .environmental-group-5 {
+
+position: absolute;
+width: 1064.3px;
+height: 66.78px;
+left: -75rem;
+top: 500px;
+}
+
+.about-us .environmental-section .environmental-group-3 .environmental-group-5 .environment-box-group-1 {
+  /* Group 37 */
+
+position: absolute;
+width: 250.81px;
+height: 66.78px;
+left: 1000px;
+top: 10rem;
+
+
+}
+.about-us .environmental-section .environmental-group-3 .environmental-group-5 .environment-box-group-1 .learn-fresh-text-wrapper {
+  /* Learn Fresh */
+
+position: absolute;
+width: 133.37px;
+height: 28.26px;
+left: 505.34px;
+top: 1132.92px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 23.848px;
+line-height: 28px;
+
+color: #515050;
+
+
+}
+.about-us .environmental-section .environmental-group-3 .environmental-group-5 .environment-box-group-1 .learn-fresh-button {
+  /* Rectangle 12 */
+z-index: 10;
+position: absolute;
+width: 250.81px;
+height: 66.78px;
+left: 447.04px;
+top: 1113.81px;
+
+background: #515050;
+border-radius: 8.83261px;
+
+}
+
+.about-us .environmental-section .environmental-group-3 .environmental-group-5 .environment-box-group-2 {
+  /* Group 39 */
+
+position: absolute;
+width: 250.81px;
+height: 66.78px;
+left: 1025px;
+top: -31.2rem;
+
+
+}
+
+.about-us .environmental-section .environmental-group-3 .environmental-group-5 .environment-box-group-2 .food-waste-text-wrapper {
+/* Food Waste */
+z-index: 3;
+position: absolute;
+width: 150.15px;
+height: 28.26px;
+left: 1052.96px;
+top: 1133.24px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 23.848px;
+line-height: 28px;
+
+color: #515050;
+
+
+}
+.about-us .environmental-section .environmental-group-3 .environmental-group-5 .environment-box-group-2 .food-waste-button-2 {
+  /* Rectangle 12 */
+
+position: absolute;
+width: 250.81px;
+height: 66.78px;
+left: 989.37px;
+top: 1113.81px;
+
+background: #F1F1F1;
+border-radius: 8.83261px;
+
+}
+.about-us .environmental-section .environmental-group-3 .environmental-group-5 .environment-box-group-3 {
+  /* Group 36 */
+
+position: absolute;
+width: 250.81px;
+height: 66.78px;
+left: 175.88px;
+top: 1113.81px;
+}
+
+.about-us .environmental-section .environmental-group-3 .environmental-group-5 .environment-box-group-3 .substaintiality-text-wrapper {
+  /* Substantiality */
+
+position: absolute;
+width: 170.47px;
+height: 28.26px;
+left: 220.93px;
+top: 1133.24px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 23.848px;
+line-height: 28px;
+
+color: #515050;
+
+
+}
+.about-us .environmental-section .environmental-group-3 .environmental-group-5 .environment-box-group-3 .substaintiality-button-3 {
+  /* Rectangle 12 */
+
+position: absolute;
+width: 250.81px;
+height: 66.78px;
+left: 175.88px;
+top: 1113.81px;
+
+background: #F1F1F1;
+border-radius: 8.83261px;
+
+}
+.about-us .environmental-section .learn-fresh-img {
+  /* image 90 */
+
+position: absolute;
+width: 245.55px;
+height: 184.6px;
+left: 450.58px;
+top: 938.92px;
+
+background: url(image.png);
+border-radius: 17.6652px;
+
+}
+
+.about-us .environmental-section .sub-img {
+  /* image 89 */
+
+position: absolute;
+width: 250.85px;
+height: 184.6px;
+left: 175px;
+top: 938.92px;
+
+background: url(image.png);
+border-radius: 17.6652px;
+
+}
